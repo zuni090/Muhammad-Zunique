@@ -5,7 +5,8 @@
 
 ## 🌐 Socials:
 <p>
-  <a href="https://www.linkedin.com/in/muhammadzunique/"><img src="https://img.shields.io/badge/muhammad-zunique-bbf3c84?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/zuni090/" alt="LinkedIn Badge"></a> 
+  <a href="[https://www.linkedin.com/in/muhammadzunique/](https://www.linkedin.com/in/muhammad-zunique-71240621a/)">
+    <img src="https://img.shields.io/badge/muhammad-zunique-bbf3c84?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=[https://www.linkedin.com/in/zuni090/](https://www.linkedin.com/in/muhammad-zunique-71240621a/)" alt="LinkedIn Badge"></a> 
 </p>
 
 <h2>✒️ Recent Posts</h2>
