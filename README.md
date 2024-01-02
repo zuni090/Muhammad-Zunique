@@ -1,7 +1,7 @@
 # Hello 👋, I'm Muhammad Zunique
 
 ## 💫 About Me:
-🔭 I’m currently working on to pursue my career as a <strong>Software Engineeer</strong>. <br>Learning about Requirement Engineering, Software Development, Managment and Testing.</br> Intelligence and Computer Networks.<br>💬 Contact me about React, Node, Express , and other software engineering related stuff<br />
+🔭 I’m currently working on to pursue my career as a <strong>Software Engineeer</strong>. <br>Learning about Requirement Engineering, Software Development, Managment and Testing.</br> <br>💬 Contact me about React, Node, Express , and other software engineering related stuff<br />
 
 ## 🌐 Socials:
 <p>
